@@ -1,0 +1,16 @@
+Hi guys, as you opened my Projc1-philosophy Story html file, you will find the end of my report is incompelete, 
+this is because I uploaded an old version of my work. When I added the last peices of my analysis, i do not even touch the code, the Rstudio ran a bug and prevents me from knitting a complete work. 
+I have spent few hours fixing that, but it still does not work.
+
+
+So I put my analysis here, Sorry for that :(  
+
+From the orange words cloud, it shows ancient Greek philosopher contemplated and theorized about different ideas such as human nature, animal instinct. 
+This demonstrated the fact that Plato are well-known scholar for ethics, virtue,justice, and other ideas relating to human behaviors.
+
+From the modern philosophy words cloud(blue), even though they still talks a lot about nature, scholar came up with new other ideas such as principle, mind, law. 
+They dissect much more daily problem of modern human by way of integrated psychology, sociology, and culture anthropology. Because modern human is involved in a violent revolution no matter in the aspect of science or social movement. 
+
+(Green Wordclouds) As contemporary philosophy is the present period with increasing professionalization of the discipline and the rise of analytic and continental philosophy.The "World, time, object"  indicates that it focus on logic, 
+aesthetics, the political sides, the scholars pursue the methods of claims of other area focus in science and social science.       
+
